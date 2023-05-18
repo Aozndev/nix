@@ -18,8 +18,6 @@ Os carimbos de data/hora do Discord podem ser úteis para especificar uma data/h
 
 Se sua saída é de 12 ou 24 horas, depende da configuração de idioma do Discord. Por exemplo, se você tiver o idioma do Discord definido como `Inglês, EUA 🇺🇸`, obterá uma saída de 12 horas. Se o seu idioma do Discord estiver definido como `Inglês, Reino Unido 🇬🇧`, você receberá uma saída de 24 horas.
 
-![](https://camo.githubusercontent.com/9ff9d6f08f6bbc03d7037ed60fd8e146fa4baa74c2c0b0a27307ca1849d2794b/68747470733a2f2f692e6c6576692e6c616e642f6650 736935412f646972656374)
-
 Fontes:
 
 [Portal do desenvolvedor do Discord](https://discord.com/developers/docs/reference#message-formatting-timestamp-styles)
